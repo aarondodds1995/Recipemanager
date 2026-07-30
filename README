@@ -1,0 +1,21 @@
+How to Use
+Create the folder structure shown above.
+Save the code as recipe_manager.py.
+Run:
+python recipe_manager.py
+Use the menu options to:
+Add recipes
+View saved recipes
+Search by title or ingredient
+Edit existing recipes
+Delete recipes
+
+The recipes are stored permanently in data/recipes.json, so they remain available after restarting the program.
+
+Project Structure
+RecipeManager/
+│
+├── recipe_manager.py
+│
+└── data/
+    └── recipes.json
