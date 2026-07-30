@@ -1,8 +1,8 @@
 How to Use
-Create the folder structure shown above.
 Save the code as recipe_manager.py.
 Run:
 python recipe_manager.py
+
 Use the menu options to:
 Add recipes
 View saved recipes
